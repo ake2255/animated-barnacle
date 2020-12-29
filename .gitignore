@@ -1,0 +1,8 @@
+.DS_Store
+.project
+.vagrant/
+config/
+src/
+.idea
+release
+package-lock.json
