@@ -1,0 +1,7 @@
+
+applicationEnvironmentVariables:
+- DOMAIN: "openbalena.local"
+- ADMIN_EMAIL: "user@email.com"
+- ADMIN_PASSWORD: "Password01!"
+
+defaultDeviceType: 'intel-nuc'
